@@ -1,6 +1,6 @@
 # CS-330-Comp-Graphic-and-Visualization
 Project
-
+![My 3d Scene](./screenshot.png)
 For this project, I developed a 3D scene using OpenGL and C++. The scene features a realistic desk setup including a lamp, a working analog clock, a detailed textured book, walls, door, and floor to create the feel of an indoor room. I applied textures, custom lighting with Phong shading, and used transformations to correctly position and scale all objects. I also added real-time animation by programming a functioning clock with second, minute, and hour hands, using system time updates. Through this project, I strengthened my understanding of scene organization, transformations (translation, rotation, scaling), texture mapping, lighting models, and modular code design. I learned how important it is to set up reusable functions like SetTransformations and SetShaderMaterial, even though they were originally provided — they helped me keep my code organized and allowed faster adjustments. I also improved my ability to think in 3D space when designing layouts and animating objects.
 
 Looking ahead, I plan to expand these skills for future educational projects and professional opportunities in fields like simulation, visualization, and interactive graphics. Computational graphics has given me the ability to approach problem solving visually, and I see this helping me in game design, AR/VR applications, and professional UI/UX work that involves 3D interaction.
